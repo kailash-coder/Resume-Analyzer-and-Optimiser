@@ -1,4 +1,4 @@
-# YouTube Video Summarizer
+# Resume Optimiser
 
 This is a Python application that allows you to summarize the content of a YouTube video using OpenAI's GPT-3.5 language model and Langchain. The application get the transcription provided by YouTube, chunks the Transcription with Langchain and generates a summary in the language of the youtube video.
 
@@ -58,12 +58,6 @@ streamlit run youtube_summarizer.py
 
 5. The summary will be presented in the form of an informative and factual overview of the video's content, including bullet points if possible. It will also include an introduction and conclusion phrase.
 
-## Example
-### Insert Youtube link, choose the language and press start
-![Example english](1.png)
-### Result
-![Example english](2.png)
-## Disclaimer
 
 Please note that this application relies on the OpenAI GPT-3.5 language model, and its performance and results are subject to the capabilities of the model and the quality of the provided data. The generated summaries may not always be perfect and may require manual editing for accuracy.
 
