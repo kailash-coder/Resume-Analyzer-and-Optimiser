@@ -17,7 +17,6 @@ Before you begin, ensure you have installed the following:
 - [PyTube](https://pytube.io/en/latest/)
 - [OpenAI](https://beta.openai.com/docs/developer-quickstart/)
 - [python-dotenv](https://pypi.org/project/python-dotenv/)
-- [youtube-transcript-api](https://pypi.org/project/youtube-transcript-api/)
 - [Langchain](https://pypi.org/project/langchain/)
 
 ## Installation 
