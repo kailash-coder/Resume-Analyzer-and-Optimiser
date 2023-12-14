@@ -1,7 +1,9 @@
 # Resume Optimiser
 
 – Crafted an AI-enhanced resume optimizer using OpenAI , offering real-time suggestions for impactful Resume.
+
 – Developed a web app using React for resume analysis and optimization.
+
 – Implemented a feature that compares uploaded resume with a set of standard resumes in LLM and provides Resume
 Score with a detailed analysis of strengths and weaknesses.
 
