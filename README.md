@@ -1,12 +1,11 @@
 # Resume Optimiser
 
-This is a Python application that allows you to summarize the content of a YouTube video using OpenAI's GPT-3.5 language model and Langchain. The application get the transcription provided by YouTube, chunks the Transcription with Langchain and generates a summary in the language of the youtube video.
+– Crafted an AI-enhanced resume optimizer using OpenAI , offering real-time suggestions for impactful Resume.
+– Developed a web app using React for resume analysis and optimization.
+– Implemented a feature that compares uploaded resume with a set of standard resumes in LLM and provides Resume
+Score with a detailed analysis of strengths and weaknesses.
 
-## Features
-- Get the Transcription from Youtube
-- Chunks the transcriptions with Langchain
-- Summarizes transcribed text using OpenAI's GPT-3.5 model
-- Built with Streamlit for an easy-to-use web interface
+
 
 ## Prerequisites
 
